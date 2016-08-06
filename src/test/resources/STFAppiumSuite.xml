@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="STF Appium Suite" verbose="1" data-provider-thread-count="2" thread-count="2" parallel="classes">
+    <test name="STF Android Test" thread-count="2" parallel="instances">
+        <classes>
+            <class name="com.vimalselvam.stf.AndroidTest" />
+        </classes>
+    </test>
+</suite>
