@@ -1,7 +1,8 @@
 # Mobile Parallel Execution using Appium on OpenSTF
 In this repo, I'll show you how we can execute tests parallelly using Appium on [OpenSTF](http://openstf.io/).
 
-
+“appium-stf-example is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial”
+<!--<a href="https://tracking.gitads.io/?repo=appium-stf-example"> <img src="https://images.gitads.io/appium-stf-example" alt="GitAds"/> </a>-->
 
 # What is OpenSTF?
 The [OpenSTF](http://openstf.io/) is the open source mobile android **S**martphone **T**est **F**arm. I was searching for the device farm setup which I can setup without any hassle and came across this project. This project is written in **NodeJs** and uses **RethinkDB**, so easy to setup. Follow their [Github Page](https://github.com/openstf/stf) for the setup instructions.
